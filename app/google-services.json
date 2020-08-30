@@ -1,0 +1,57 @@
+{
+  "project_info": {
+    "project_number": "146453585899",
+    "firebase_url": "https://earn-money-24d02.firebaseio.com",
+    "project_id": "earn-money-24d02",
+    "storage_bucket": "earn-money-24d02.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:146453585899:android:2e5de5c4a5299d4723c3ae",
+        "android_client_info": {
+          "package_name": "com.example.earnmoney"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "146453585899-2u39pk0b9dba6vl8qeddeo9m341hnjo4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.earnmoney",
+            "certificate_hash": "4fb119df1b52c434ea509c280fe2329673a701c2"
+          }
+        },
+        {
+          "client_id": "146453585899-m6tge7e71an2gjq3fcjs3iq3qcnjv9iq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.earnmoney",
+            "certificate_hash": "86311359eebaf3f63ed5c4b9120429aa29380029"
+          }
+        },
+        {
+          "client_id": "146453585899-rfpp222g2stbng3b18c37m5iuiqi7dc2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgP20smJmUma-OydtmHAaZMZUL0CAWkJY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "146453585899-qki6n4q94orgb8hs5e12b1adprjmiiii.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      },
+      "admob_app_id": "ca-app-pub-9369903313997105~8190771398"
+    }
+  ],
+  "configuration_version": "1"
+}

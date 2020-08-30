@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btntaskone" type="id" />
+    <item name="btnGoBack" type="id" />
+    <item name="adView" type="id" />
+    <item name="button_sign_out" type="id" />
+    <item name="text_gallery" type="id" />
+    <item name="email" type="id" />
+</resources>
